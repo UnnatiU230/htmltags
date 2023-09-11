@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    text-decoration: underline;
+}
+button{
+    color: black;
+}
+nav{
+    color: black;
+    text-decoration: underline;
+    padding-block: 20px;
+    padding-inline: 30px;
+}
+h2{
+    color: indianred;
+}
+footer{
+    text-align: center;
+}
